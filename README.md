@@ -54,7 +54,7 @@ Feel free to fork this repository and submit pull requests if you would like to 
 
 License
 
-[Specify your preferred license, e.g., MIT License, GPLv3, etc.]
+MIT LICENSE
 
 Contact
 
